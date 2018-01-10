@@ -1,0 +1,81 @@
+@charset "UTF-8";
+/*Use a serif & sans-serif Google Font pair. One serif font for all your headings and one sans-serif font for all your body text and links.*/
+/* Use an Analogous Colour Scheme.*/
+body {
+  font-family: "Allerta Stencil", ‘Trebuchet MS’, Helvetica, sans-serif;
+  background-color: #E4FAFF; }
+
+.navbar-dark .navbar-brand {
+  color: #A2CCE8; }
+
+.nav-item {
+  color: #A2CCE8; }
+
+.nav-item active {
+  color: #E4FAFF; }
+
+.jumbotron {
+  background-color: #A2CCE8; }
+
+h1 {
+  font-family: "Marko One", "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #3134FF; }
+
+h2 {
+  font-family: "Marko One", "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #0068FF; }
+
+h3 {
+  font-family: "Marko One", "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #0068FF; }
+
+h4 {
+  font-family: "Marko One", "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #0068FF; }
+
+p {
+  color: #5877E8; }
+
+label {
+  color: #5877E8; }
+
+footer div p {
+  width: 100%;
+  clear: both; }
+
+#sadJonSnow {
+  display: block;
+  padding: 15px;
+  max-width: 100%;
+  height: auto; }
+
+#twodogs {
+  display: block;
+  border: 1px solid #E4FAFF;
+  border-radius: 8px;
+  padding: 5px;
+  max-width: 100%;
+  height: auto; }
+
+#googleMap {
+  padding: 20px;
+  display: block;
+  border-radius: 8px; }
+
+#button {
+  color: #3134FF;
+  background-color: #A2CCE8;
+  border: 2px solid #5877E8;
+  border-radius: 8px; }
+
+.card {
+  background-color: #A2CCE8; }
+
+.card-img-top {
+  display: block;
+  padding: 1px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px; }
+
+/*# sourceMappingURL=main.css.map */
